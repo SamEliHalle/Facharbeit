@@ -1,3 +1,5 @@
+# Teilweise inspiriert von https://github.com/zhixuhao/unet
+
 import numpy as np
 from keras.preprocessing.image import ImageDataGenerator
 from skimage import io

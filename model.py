@@ -1,3 +1,5 @@
+# Teilweise inspiriert von https://github.com/zhixuhao/unet
+
 import numpy as np
 import os
 import skimage.io as io
